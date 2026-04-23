@@ -1,7 +1,7 @@
 ## 📊 ENGINEERING TASK TRACKER (JIRA-STYLE)
 
-| ID | Title | Type | Status | Priority | Current Step | Done Criteria | Notes |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| ID     | Title | Type | Status | Priority | Current Step | Done Criteria | Notes |
+| :---    :---   | :--- | :---   | :---     | :---         | :---          | :---  |
 | BE-001 | Setup Deno Project | Setup | DONE | P1 | Completed | Project runs with deno run main.ts | Base project initialized |
 | BE-002 | Create Order Module Structure | Feature | IN PROGRESS | P1 | Writing service logic | Module folder + files created | Following modular structure |
 | BE-003 | Implement createOrder Function | Feature | TODO | P1 | Not started | Function returns valid order object | Depends on types |
