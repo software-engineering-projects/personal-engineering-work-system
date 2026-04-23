@@ -4,6 +4,8 @@
   <img width="1236" height="174" alt="image" src="https://github.com/user-attachments/assets/62797c84-08ac-4971-aa43-bbc018ada571" />
 </a>
 
+---
+
 ```
 STATUS DEFINITIONS (STRICT)
   • Use only these:
