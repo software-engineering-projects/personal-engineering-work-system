@@ -1,9 +1,5 @@
 ## 📊 ENGINEERING TASK TRACKER (JIRA-STYLE)
 
-LINK:
-https://docs.google.com/spreadsheets/d/1EWmZ2tlgUmIXV_uHJs4n-zOEfPyL5Xc4kLV2k-tTmes/edit?gid=0#gid=0
-
-IMAGE:
 <a href="https://docs.google.com/spreadsheets/d/1EWmZ2tlgUmIXV_uHJs4n-zOEfPyL5Xc4kLV2k-tTmes/edit?gid=0#gid=0">
   <img width="1236" height="174" alt="image" src="https://github.com/user-attachments/assets/62797c84-08ac-4971-aa43-bbc018ada571" />
 </a>
