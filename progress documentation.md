@@ -1,12 +1,12 @@
 ## 📊 ENGINEERING TASK TRACKER (JIRA-STYLE)
 
-| ID | Title | Type | Status | Priority | Current Step | Done Criteria | Notes |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| BE-001 | Setup Deno Project | Setup | DONE | P1 | Completed | Project runs with deno run main.ts | Base project initialized |
-| BE-002 | Create Order Module Structure | Feature | IN PROGRESS | P1 | Writing service logic | Module folder + files created | Following modular structure |
-| BE-003 | Implement createOrder Function | Feature | TODO | P1 | Not started | Function returns valid order object | Depends on types |
-| BE-004 | Add Type Definitions | Feature | TODO | P1 | Not started | Types enforce correct input | - |
-| BE-005 | Add Runtime Validation | Enhancement | TODO | P2 | Not started | Invalid input throws error | |
+LINK:
+https://docs.google.com/spreadsheets/d/1EWmZ2tlgUmIXV_uHJs4n-zOEfPyL5Xc4kLV2k-tTmes/edit?gid=0#gid=0
+
+IMAGE:
+<a href="https://docs.google.com/spreadsheets/d/1EWmZ2tlgUmIXV_uHJs4n-zOEfPyL5Xc4kLV2k-tTmes/edit?gid=0#gid=0">
+  <img width="1236" height="174" alt="image" src="https://github.com/user-attachments/assets/62797c84-08ac-4971-aa43-bbc018ada571" />
+</a>
 
 ```
 STATUS DEFINITIONS (STRICT)
