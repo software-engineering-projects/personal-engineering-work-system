@@ -1,6 +1,6 @@
 # personal-engineering-work-system
 
-📘 Personal Engineering Work System (PEWS) — Procedural Version
+Personal Engineering Work System (PEWS) — Procedural Version
 
 0. Core Rule
 
